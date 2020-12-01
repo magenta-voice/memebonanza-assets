@@ -1,0 +1,11 @@
+{
+  "type": "static",
+  "name": "memebonanza-assets-1337",
+  "profile": "default",
+  "regions": [
+    "eu-central-1"
+  ],
+  "static": {
+    "dir": "static"
+  }
+}
