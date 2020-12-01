@@ -1,0 +1,17 @@
+{
+  "v2": {
+    "showsInCatalog": true,
+    "displayName": "Meme Bonanza",
+    "headline": "Random memes 4 you :)",
+    "description": "Witzige Zufall memes",
+    "iconUrl": "https://bc88fvx6y8.execute-api.eu-central-1.amazonaws.com/staging/",
+    "design": {
+      "backgroundColor": "#008FE2"
+    },
+    "examplePhrases": [
+      "Zufall"
+    ]
+  },
+  "fileVersion": 1
+}
+
